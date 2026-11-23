@@ -11,8 +11,11 @@ Rentals (Windsong Ranch / Prosper TX) and SUVs (used luxury SUVs near Dallas). T
 | data/suvs.json | `https://raw.githubusercontent.com/krennic212/landlistings-data/main/data/suvs.json` | SUVs: array of cars |
 | data/market-meta.json | `https://raw.githubusercontent.com/krennic212/landlistings-data/main/data/market-meta.json` | Rentals + SUVs: updatedAt, updated_label, counts, rules, sources, scan times |
 
-Refreshed Mon and Thu mornings (America/Chicago) by the land-listings-refresh routine. Listings come from public pages on
-United Country, Mossy Oak Properties and Xome. Every listing links to its own source page; verify everything with the seller.
+Refreshed Mon and Thu mornings (America/Chicago) by the land-listings-refresh routine. Land sources: United Country
+(uclandforsale.com), Mossy Oak Properties (mossyoakproperties.com), Xome (xome.com), LandFlip (landflip.com) and Hayden Outdoors
+(haydenoutdoors.com). Land.com, LandWatch, Lands of America, LandAndFarm, LandSearch and Whitetail Properties are checked each run
+but currently block automated access, so none of their listings are included. States: VA, WV, KY, ID, AK, PA, NC, ME, CT, VT, TN,
+MI, MT, RI, SC. Every listing links to its own source page; verify everything with the seller.
 
 ## Rules
 - 5 acres or more; land-only asking price <= $200,000; with a house <= $600,000.
