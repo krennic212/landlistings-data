@@ -1,0 +1,38 @@
+{
+ "updated": "2026-11-23T08:30:00-06:00",
+ "updated_label": "Nov 23, 2026, 8:30 AM CT",
+ "count": 894,
+ "counts_by_state": {
+  "VA": 119,
+  "PA": 36,
+  "NC": 92,
+  "ME": 108,
+  "CT": 21,
+  "VT": 76,
+  "TN": 186,
+  "MI": 81,
+  "MT": 38,
+  "RI": 7,
+  "SC": 61,
+  "WV": 69
+ },
+ "rules": "Over 5 acres; land-only asking price <= $200,000; with a house <= $600,000; lots you cannot build on are left out; dead (404) links removed.",
+ "sources": [
+  "United Country (uclandforsale.com)",
+  "Mossy Oak Properties",
+  "Xome"
+ ],
+ "excluded_unbuildable": 11,
+ "removed_dead": [
+  "https://uclandforsale.com/properties/0-mountain-view-rd-meadows-of-dan-va-24120-meadows-of-dan-virginia-24120/",
+  "https://uclandforsale.com/properties/1-springer-rd-hohenwald-tennessee-38462/",
+  "https://uclandforsale.com/properties/1085-white-oak-forks-road-virgilina-virginia-24598/",
+  "https://uclandforsale.com/properties/9918-canady-landing-road-aurora-north-carolina-27806/",
+  "https://uclandforsale.com/properties/lakeway-ln-savannah-tennessee-38372/",
+  "https://www.mossyoakproperties.com/property/20-acres-ingham-county-recreational-land-ingham-michigan/97230/",
+  "https://www.mossyoakproperties.com/property/6-55-acres-of-magnificent-timber-in-the-heart-of-franklin-county-va-franklin-virginia/105364/",
+  "https://www.xome.com/realestate/Hall-Meadow-Road-Goshen-CT-06058-L429264801"
+ ],
+ "feed_url": "https://raw.githubusercontent.com/krennic212/landlistings-data/main/data/listings.json",
+ "schema_version": 1
+}
