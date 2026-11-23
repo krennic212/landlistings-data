@@ -1,8 +1,9 @@
 {
-  "updated": "2026-11-23T16:50:00-06:00",
-  "updated_label": "Nov 23, 2026, 4:50 PM CT",
-  "count": 910,
+  "updated": "2026-11-23T16:55:00-06:00",
+  "updated_label": "Nov 23, 2026, 4:55 PM CT",
+  "count": 915,
   "counts_by_state": {
+    "AK": 5,
     "CT": 21,
     "ID": 4,
     "KY": 12,
