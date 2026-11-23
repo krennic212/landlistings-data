@@ -1,9 +1,10 @@
 {
-  "updated": "2026-11-23T16:45:00-06:00",
-  "updated_label": "Nov 23, 2026, 4:45 PM CT",
-  "count": 906,
+  "updated": "2026-11-23T16:50:00-06:00",
+  "updated_label": "Nov 23, 2026, 4:50 PM CT",
+  "count": 910,
   "counts_by_state": {
     "CT": 21,
+    "ID": 4,
     "KY": 12,
     "ME": 108,
     "MI": 81,
