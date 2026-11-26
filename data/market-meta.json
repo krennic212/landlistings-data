@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-11-25T16:55:00-06:00",
-  "updated_label": "Nov 25, 2026, 4:55 PM CT",
-  "rentals_count": 315,
-  "suvs_count": 500,
-  "rentals_confirmed_appliances": 15,
-  "suvs_carplay_confirmed": 6,
-  "suvs_with_kbb": 491,
-  "rentals_source_rows": 315,
-  "suvs_source_rows": 531,
-  "rentals_scanned": "Nov 23, 2026, 6:53 AM CT",
-  "suvs_scanned": "2026-11-21",
-  "feeds": {
-    "rentals": "https://raw.githubusercontent.com/krennic212/landlistings-data/main/data/rentals.json",
-    "suvs": "https://raw.githubusercontent.com/krennic212/landlistings-data/main/data/suvs.json",
-    "meta": "https://raw.githubusercontent.com/krennic212/landlistings-data/main/data/market-meta.json"
-  },
-  "sources": {
-    "rentals": [
-      "Zillow",
-      "Rent.com",
-      "Craigslist",
-      "Redfin (when not blocked)"
-    ],
-    "suvs": [
-      "CarGurus",
-      "Cars.com",
-      "KBB (listings + Fair Purchase Price)"
-    ]
-  },
-  "rules": {
-    "rentals": "Lowest asking rent $1,800-$2,300; 2+ beds; verified drive of 20 min or less to Mrs. Jerry Bryant Elementary; in-unit washer/dryer + fridge required: homes that fail are removed, homes whose listing does not say are shown and marked; dark kitchen cabinets removed.",
-    "suvs": "Used luxury SUVs 2022 or newer, under 70,000 miles, $70,000 or less, within 200 miles of Dallas; no Cadillac, Range Rover Evoque or Velar; XC40s white only; cars confirmed without Apple CarPlay removed, unconfirmed marked; KBB Fair Purchase Price only when KBB lists one."
-  },
-  "notes": "Rentals from the scan of Nov 23, 2026, 6:53 AM CT; SUVs from the scan of 2026-11-21 (CT). Nothing is invented: unknown text is \"Not listed\", unknown numbers are null, photos are the listings' own photo URLs. Kitchen photo moved to first position on multi-photo rentals."
+ "updatedAt": "2026-11-26T07:20:00-06:00",
+ "updated_label": "Nov 26, 2026, 7:20 AM CT",
+ "rentals_count": 312,
+ "suvs_count": 500,
+ "rentals_confirmed_appliances": 16,
+ "suvs_carplay_confirmed": 6,
+ "suvs_with_kbb": 491,
+ "rentals_source_rows": 312,
+ "suvs_source_rows": 531,
+ "rentals_scanned": "Nov 26, 2026, 7:08 AM CT",
+ "suvs_scanned": "2026-11-26",
+ "feeds": {
+  "rentals": "https://raw.githubusercontent.com/krennic212/landlistings-data/main/data/rentals.json",
+  "suvs": "https://raw.githubusercontent.com/krennic212/landlistings-data/main/data/suvs.json",
+  "meta": "https://raw.githubusercontent.com/krennic212/landlistings-data/main/data/market-meta.json"
+ },
+ "sources": {
+  "rentals": [
+   "Zillow",
+   "Rent.com",
+   "Craigslist",
+   "Redfin (when not blocked)"
+  ],
+  "suvs": [
+   "CarGurus",
+   "Cars.com",
+   "KBB (listings + Fair Purchase Price)"
+  ]
+ },
+ "rules": {
+  "rentals": "Lowest asking rent $1,800-$2,300; 2+ beds; verified drive of 20 min or less to Mrs. Jerry Bryant Elementary; in-unit washer/dryer + fridge required: homes that fail are removed, homes whose listing does not say are shown and marked; dark kitchen cabinets removed.",
+  "suvs": "Used luxury SUVs 2022 or newer, under 70,000 miles, $70,000 or less, within 200 miles of Dallas; no Cadillac, Range Rover Evoque or Velar; XC40s white only; cars confirmed without Apple CarPlay removed, unconfirmed marked; KBB Fair Purchase Price only when KBB lists one."
+ },
+ "notes": "Rentals from the scan of Nov 26, 2026, 7:08 AM CT; SUVs from the scan of 2026-11-26 (CT). Nothing is invented: unknown text is \"Not listed\", unknown numbers are null, photos are the listings' own photo URLs."
 }
